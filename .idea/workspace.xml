@@ -4,31 +4,221 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d40748dd-5abc-4be9-9e63-0c0f50d13f18" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CH4/04_01/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_01/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_02/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_02/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_02/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_02/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_02/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_02/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_03/begin/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_03/begin/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_03/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_03/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_03/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_03/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_03/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_03/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_04/begin/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_04/begin/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_04/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_04/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_04/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_04/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_04/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_04/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_05/begin/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_05/begin/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_05/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_05/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_05/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_05/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_05/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_05/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_06/begin/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_06/begin/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_06/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_06/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_06/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_06/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_06/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_06/end/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_07/begin/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_07/begin/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_07/begin/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_07/begin/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_07/end/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_07/end/client/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH4/04_07/end/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH4/04_07/end/client/src/App.js" afterDir="false" />
+    <list default="true" id="d40748dd-5abc-4be9-9e63-0c0f50d13f18" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/01_07/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_02/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_02/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_03/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_03/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_04/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH2/02_04/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/03_01/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/03_01/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_01/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_01/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_02/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/begin/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_03/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/begin/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_04/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/begin/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_05/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/begin/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/model/ContactsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_06/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/model/ContactsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/begin/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.factorypath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/CrmApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/model/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/model/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/model/ContactsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/model/DemoLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/classes/com/crm/crm/model/ReactAndSpringDataRestApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/04_07/end/target/test-classes/com/crm/crm/CrmApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +226,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CH1/01_07/end/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
@@ -69,11 +259,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652005742005</updated>
-      <workItem from="1652005743489" duration="653000" />
+      <workItem from="1652005743489" duration="829000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
